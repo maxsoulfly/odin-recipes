@@ -22,8 +22,8 @@ Enjoy cooking!
 
 ## Recipes Included
 
-- Recipe 1
-- Recipe 2
+- Lasagna
+- Sushi
 - Recipe 3
 
 Stay tuned for more delicious recipes!

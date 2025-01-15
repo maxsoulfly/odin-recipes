@@ -24,6 +24,6 @@ Enjoy cooking!
 
 - Lasagna
 - Sushi
-- Recipe 3
+- Garlic Butter Salmon Recipe
 
 Stay tuned for more delicious recipes!
